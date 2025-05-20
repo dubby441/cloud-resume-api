@@ -30,3 +30,5 @@ This is a personal cloud engineering project inspired to test my knowledge. It s
 - `user_data` is used instead of Terraform `remote-exec` for better reliability.
 - Docker Compose handles container lifecycle on EC2.
 - Any Docker Hub image can be used in `docker-compose.yml`.
+
+Sometimes things are not easy as they appear but keep pushing .
