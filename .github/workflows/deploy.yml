@@ -23,7 +23,7 @@ jobs:
       with:
         host: ${{ secrets.EC2_HOST }}
         username: ubuntu
-        key: private_key.pem
+        key: ${{ secrets.EC2_SSH_KEY }}
         source: " ./app, ./Dockerfile"
         target: "/home/ubuntu/app"
 
