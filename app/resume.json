@@ -1,0 +1,39 @@
+{
+    "name": "Chidubem Okpala",
+    "title": "Junior Cloud/DevOps Engineer",
+    "contact": {
+      "email": "dubby441@gmail.com",
+      "location": "Lisbon, Portugal"
+    },
+    "skills": [
+      "AWS",
+      "Terraform(basic)",
+      "Docker",
+      "Linux",
+      "CI/CD",
+      "Bash Scripting",
+      "Kubernetes (basic)"
+    ],
+    "experience": [
+      {
+        "role": "Technical Customer Support",
+        "company": "Teleperformance",
+        "duration": "Sept 2023 – Present",
+        "description": "Provided support using Salesforce, resolving technical issues and ensuring customer satisfaction."
+      },
+      {
+        "role": "Cloud/DevOps Engineering Student",
+        "company": "Altschool Africa",
+        "duration": "June 2024 – May 2025",
+        "description": "Completed hands-on training in cloud technologies including Docker, Bash, CI/CD, and Terraform."
+      }
+    ],
+    "education": [
+      {
+        "school": "Altschool Africa",
+        "program": "Cloud Engineering Diploma",
+        "year": "2024 – 2025"
+      }
+    ]
+  }
+  

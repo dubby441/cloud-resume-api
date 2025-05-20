@@ -1,0 +1,8 @@
+
+services:
+  web:
+    image: nginx:latest  # pulls the official NGINX image from Docker Hub
+    container_name: cloud-resume
+    ports:
+      - "80:80"
+    restart: always
